@@ -1,0 +1,6 @@
+.navbar-section__article {
+  display: grid;
+  grid-template-columns: 160px auto;
+  grid-template-rows: repeat(3, auto);
+  column-gap: 24px;
+}

@@ -1,0 +1,7 @@
+.navbar-section__content {
+  width: 1312px;
+  color: var(--text-color);
+  padding-top: 32px;
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,13 @@
+.header__link_list {
+  position: relative;
+}
+.header__link_list::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 8px;
+  right: -17px;
+  width: 12.59px;
+  height: 7.13px;
+  background-image: url(../../../../assets/drop-down-arrow.svg);
+}

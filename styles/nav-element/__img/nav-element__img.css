@@ -1,0 +1,8 @@
+.nav-element__img {
+  width: 18px;
+  height: 20px;
+  background-image: url(../../../assets/nav-icon.svg);
+  grid-row-start: 1;
+  grid-row-end: 3;
+  margin-top: 8px;
+}

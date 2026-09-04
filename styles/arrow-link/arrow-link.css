@@ -1,0 +1,16 @@
+.arrow-link {
+  color: white;
+  text-decoration: none;
+  position: relative;
+}
+.arrow-link::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 8px;
+  right: -20px;
+  width: 12.59px;
+  height: 7.13px;
+  background-image: url(../../../../assets/drop-down-arrow.svg);
+  transform: rotate(-90deg);
+}

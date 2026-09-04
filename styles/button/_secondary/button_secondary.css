@@ -1,0 +1,6 @@
+.button_secondary {
+  border: 1px solid #ffffff33;
+  background-color: var(--color-main);
+  height: 35px;
+  width: 74px;
+}
