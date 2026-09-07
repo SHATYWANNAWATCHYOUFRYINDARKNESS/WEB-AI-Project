@@ -25,3 +25,7 @@
 @import url(./styles/navbar-section/__article-link/navbar-section__article-link.css);
 @import url(./styles/arrow-link/arrow-link.css);
 @import url(./styles/button-hover/button-hover.css);
+@import url(./styles/about-ai/about-ai.css);
+@import url(./styles/about-ai/__title/about-ai__title.css);
+@import url(./styles/about-ai/__subtitle/about-ai__subtitle.css);
+@import url(./styles/about-ai/__content/about-ai__content.css);

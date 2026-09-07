@@ -1,0 +1,11 @@
+.about-ai__subtitle {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 150%;
+  letter-spacing: 0;
+  text-align: center;
+
+  color: #ffffff;
+}
