@@ -1,0 +1,7 @@
+.data-analysis__paragraph {
+  display: flex;
+  gap: 24px;
+  font-weight: 600;
+  margin-top: 17px;
+  margin-bottom: 147px;
+}

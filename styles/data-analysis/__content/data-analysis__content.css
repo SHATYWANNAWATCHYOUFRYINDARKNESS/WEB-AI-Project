@@ -1,0 +1,7 @@
+.data-analysis__content {
+  display: grid;
+  grid-template-columns: 600px auto;
+  gap: 80px;
+  grid-template-rows: auto;
+  align-items: center;
+}

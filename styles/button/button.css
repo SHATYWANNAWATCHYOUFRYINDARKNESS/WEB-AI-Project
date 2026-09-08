@@ -1,5 +1,6 @@
 .button {
-  color: var(--text-color);
-  border-radius: 16px;
+  border-radius: 12px;
   cursor: pointer;
+  padding: 4px 10px;
+  line-height: 150%;
 }

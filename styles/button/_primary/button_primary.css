@@ -1,6 +1,4 @@
 .button_primary {
   border: 0;
   background-color: var(--primary-button);
-  height: 35px;
-  width: 135px;
 }
