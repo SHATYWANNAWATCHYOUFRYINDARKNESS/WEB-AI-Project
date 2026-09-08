@@ -1,0 +1,7 @@
+.about-ai__actions {
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  padding-top: 32px;
+}

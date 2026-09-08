@@ -1,0 +1,7 @@
+.data-analysis__title {
+  display: flex;
+  flex-direction: start;
+  gap: 24px;
+  font-weight: 600;
+  width: 1280px;
+}
